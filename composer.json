@@ -1,0 +1,19 @@
+{
+    "name": "PreciousGariya/dbmanager",
+    "description": "for managing Database from laravel",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "PreciousGariya\\DbManager\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "GokulSinghGariya",
+            "email": "gokul.hestabit@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
